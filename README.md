@@ -36,3 +36,6 @@ The app integrates with the [NASA Mars Rover Photos API](https://github.com/cori
   KSP is a tool used to generate code at compile time, helping to improve app performance and reduce boilerplate code.
   In this app, it is integrated with Room and Dagger Hilt to simplify database schema generation and dependency injection.
 
++ **[Room - SQLite](https://developer.android.com/jetpack/androidx/releases/room):**
+  A persistence library used to store and manage data locally in the app. Room abstracts SQLite, allowing for seamless database operations. It is used in conjunction with KSP for efficient database schema generation.
+
