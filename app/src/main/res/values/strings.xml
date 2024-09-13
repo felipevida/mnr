@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MNR</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_saved">Saved</string>
+
+    <!--    HOME SCREEN     -->
+    <string name="powered_by">Powered by</string>
+    <string name="home_screen_title">MARS ROVER PHOTOS</string>
+    <string name="home_screen_text">
+        Welcome to the Mars Rover Photos app!\n\n
+        Explore real images captured by NASA’s rovers—Curiosity, Opportunity, and Spirit—during their missions on Mars.\n\n
+        Each photo is organized by "sol," which is a Martian day counting from the rover’s landing. Simply choose a sol number to view the photos taken on that specific day. For example, if you\'re curious about what Curiosity captured on its 1000th day on Mars, just select Curiosity and sol 1000.\n\n
+        You can also save any photo to your device for offline access, making it easy to revisit your own journey.\n\n
+        Get ready to explore Mars from your device and view the planet through the eyes of NASA’s rovers!
+    </string>
+
+    <!--    EXPLORE     -->
+    <string name="explore_set_martian_sol_title">SET MARTIAN SOL:</string>
+    <string name="explore_search_button_text">SEARCH</string>
+
+</resources>
